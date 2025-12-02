@@ -6,5 +6,6 @@ Python Full-Stack Developer — FastAPI/Django • React • SQL • REST APIs �
 🌱 Learning: caching, async, system design basics
 🌐 Portfolio/LinkedIn: www.linkedin.com/in/rameshgande200509
 
+
 ## Tech
 Python, REST API, Django, React, JavaScript, HTML/CSS, PostgreSQL, Git, Docker, Pytest, GitHub Actions
